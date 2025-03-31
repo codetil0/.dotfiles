@@ -1,0 +1,7 @@
+/* Copyright (C) 2020-2024 spaciousejar */
+
+/* Text Font */
+
+* {
+    font: "JetBrainsMono Nerd Font 10";
+}
